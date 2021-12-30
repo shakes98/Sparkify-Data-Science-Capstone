@@ -13,20 +13,17 @@ This repository contains the files and information for my Udacity Data Scientist
 
 
 ## Installations Needed
-Beyond the installation of the Anaconda distribution of python, there should be no other necessary libraries needed to run the code. All libraries required will be installed in the first section of the code. There should be no issues running the code when using Python Version 3. The data needed is saved in the github repository along with the code. To write the code, I used a jupyter noteboook.
+Beyond the installation of the Anaconda distribution of python, there should be no other necessary libraries needed to run the code. All libraries required will be installed in the first section of the code. There should be no issues running the code when using Python Version 3. The data needed was provided by Udacity, but is sadly not available in this repository due to its size (128MB). To write the code, I used a jupyter noteboook.
 
 ## Project Motivation
 The motivation of this project was to predict customer churn for a fictional music service - Sparkify. This involved loading and cleaning the data set (provided in github). I then conducted Exploratory Data Analysis to understand what features may be useful to predict churn. After analysing these features I did some Feature Engineering for features I found to be useful in EDA. Finally, I preprocessed and then went through trying different models.
 
 
 ## File Descriptions
-The file used for the analysis can be found in this github repository. I used the 128MB data set provided by Udacity - "mini_sparkify_event_data.json". The work I completed is in the available jupyter notebook.
+The file used for the analysis can be found in this github repository. I used the 128MB data set provided by Udacity - "mini_sparkify_event_data.json".
 
 ## Results of Analysis
 The main findings of the analysis can be found in my post on Medium [here](https://medium.com/@samanthahakes/what-makes-a-good-book-1440b80d6ada).
-
-As a summary, we looked at the top authors/books and checked for correlation against the price variable.
-After cleaning the data I found that the data set had many duplicates, which massively reduced the data set size. Therefore, in future I would like to do the same analysis on a larger data set to hopefully get more conclusive results.
 
 
 ## Licensing, Authors and Other Acknowledgements
