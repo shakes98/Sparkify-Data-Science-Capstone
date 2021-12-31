@@ -16,7 +16,7 @@ This repository contains the files and information for my Udacity Data Scientist
 Beyond the installation of the Anaconda distribution of python, there should be no other necessary libraries needed to run the code. All libraries required will be installed in the first section of the code. There should be no issues running the code when using Python Version 3. The data needed was provided by Udacity, but is sadly not available in this repository due to its size (128MB). To write the code, I used a jupyter noteboook.
 
 ## Project Motivation
-The motivation of this project was to predict customer churn for a fictional music service - Sparkify. This involved loading and cleaning the data set (provided in github). I then conducted Exploratory Data Analysis to understand what features may be useful to predict churn. After analysing these features I did some Feature Engineering for features I found to be useful in EDA. Finally, I preprocessed and then went through trying different models.
+The motivation of this project was to predict customer churn for a fictional music service - Sparkify. This involved loading and cleaning the data set. I then conducted Exploratory Data Analysis to understand what features may be useful to predict churn. After analysing these features I did some Feature Engineering for features I found to be useful in EDA. Finally, I preprocessed and then went through trying different models.
 
 
 ## File Descriptions
