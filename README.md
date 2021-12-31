@@ -27,7 +27,7 @@ The main findings of the analysis can be found in my post on Medium [here](https
 
 
 ## Licensing, Authors and Other Acknowledgements
-I'd also like to thank Udacity and the instructors for the courses throughout the Nanodegree, as well as the extracurricular course on Spark.
+I'd like to thank Udacity and the instructors for the courses throughout the Nanodegree, as well as the extracurricular course on Spark.
 
 
 
