@@ -23,7 +23,7 @@ The motivation of this project was to predict customer churn for a fictional mus
 The file used for the analysis can be found in this github repository. I used the 128MB data set provided by Udacity - "mini_sparkify_event_data.json".
 
 ## Results of Analysis
-The main findings of the analysis can be found in my post on Medium [here](https://medium.com/@samanthahakes/what-makes-a-good-book-1440b80d6ada).
+The main findings of the analysis can be found in my post on Medium [here](https://medium.com/@samanthahakes/can-we-predict-whether-a-customer-may-leave-b5f0e4271d6d).
 
 
 ## Licensing, Authors and Other Acknowledgements
